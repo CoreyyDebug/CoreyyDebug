@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any QBCORE FiveM Server
 - 📫 How to reach me: Add my discord of "coreyy.s" and let me know what you want done and what i would get in return.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have created around 3 qb core servers in my free time just because i was bored.
+- ⚡ Fun fact: I have created around 3 qb core servers in my free time just because i was bored, I also stream on twitch at twitch.tv/CoreyySmilez
 
 <!---
 CoreyyDebug/CoreyyDebug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
