@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @CoreyyDebug
-- 👀 I’m interested in FiveM Development
-- 🌱 I’m currently learning fivem development on my own.
-- 💞️ I’m looking to collaborate on any QBCORE FiveM Server
-- 📫 How to reach me: Add my discord of "coreyy.s" and let me know what you want done and what i would get in return.
+- 👋 Hi, I’m Corey
+- 👀 I am a FiveM Developer
+- 🌱 I have self taught myself development for 3 years now
+- 💞️ I own my own QBox FiveM Server
+- 📫 How to reach me: Add my discord of "coreyy316" and let me know what you want done and what i would get in return.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have created around 3 qb core servers in my free time just because i was bored, I also stream on twitch at twitch.tv/CoreyySmilez
 
 <!---
-CoreyyDebug/CoreyyDebug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
